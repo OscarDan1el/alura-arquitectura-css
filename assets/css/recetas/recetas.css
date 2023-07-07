@@ -1,0 +1,11 @@
+.recetas{
+    background: rgba(218, 185, 151, 0.70);
+    display: flex;
+    /* posiciona los elementos uno alado del otro */
+    flex-wrap: wrap;
+    /* quiebra los elemtos */
+    padding: 5rem 0 0 5rem ;
+    /* espacio a los costado */
+    
+    
+}

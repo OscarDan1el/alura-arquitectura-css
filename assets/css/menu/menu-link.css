@@ -1,0 +1,17 @@
+.menu__link{
+    /* agregamos color */
+    color: #808080;
+    margin-right: 1.25rem;
+    /* se crea un espacio entre las letras */
+    text-decoration: none;
+    /* quita el subrayado de las letras  */
+    }
+    
+    .menu__link:hover{
+    text-decoration: underline;
+    /* si pasa el mouse ensima el texto se agranda */
+    }
+    
+    .menu__link.activo{
+    color: pink;
+    }
