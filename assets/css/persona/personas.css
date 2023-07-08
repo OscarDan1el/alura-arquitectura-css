@@ -1,0 +1,8 @@
+.personas{
+    display: flex;
+    /* pone los elemntos uno alado del otro */
+    justify-content: space-between;
+    /* les da espacio entre los elemtos  */
+    padding-top: 3rem;
+    /* crea espacio arriba */
+}

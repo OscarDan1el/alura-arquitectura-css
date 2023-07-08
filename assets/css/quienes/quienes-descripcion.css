@@ -1,0 +1,9 @@
+.quienes__descripcion{
+    color:  #8C8888;
+    font-family: roboto;
+    font-size: 28px;
+    /* tamaño de fuente */
+    /* line-height: 2.051rem; --- no se aun para que sirve  */
+    font-weight: 100;
+    /* adelgaza la letra */
+}
