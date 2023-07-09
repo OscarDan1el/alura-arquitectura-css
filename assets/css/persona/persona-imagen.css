@@ -1,0 +1,28 @@
+.persona__imagen{
+     width: 16.313rem;
+     height: 16.313rem;
+     border-radius: 100%;
+    /* con esto ya quedo pero en el video agrega mas cosas */
+
+    background-position: center;
+    background-size: cover;
+    /* Si background-size: cover: la imagen es redimensionada proporcionalmente 
+    y cubre toda la caja. Parte de la imagen puede no aparecer en pantalla. */
+
+    /* background-repeat: no-repeat;
+    esto se utiliza si se repite la imagen pero en mi caso no se repitio */
+}
+
+.persona__imagen--roberta{
+    background-image: url('../../img/personas/roberta.jpg');
+    /* agregando las imagenes con backgroun */
+}
+
+.persona__imagen--marcela{
+    background-image: url('../../img/personas/marcela.jpg');
+
+}
+
+.persona__imagen--andrea{
+    background-image: url('../../img/personas/andrea.jpg');
+}

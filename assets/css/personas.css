@@ -5,4 +5,6 @@
     /* les da espacio entre los elemtos  */
     padding-top: 3rem;
     /* crea espacio arriba */
+    line-height: 1.684rem;
+    /* estable espacio entre las lineas del texto */
 }
