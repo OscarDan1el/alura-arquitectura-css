@@ -1,0 +1,10 @@
+.rodapie__nombre{
+    color: #8C8888;
+    font-family: roboto;
+    font-size: 1.25rem;
+    font-weight: 400;
+    align-items: center;
+    /* margin-top: 2.5rem; 
+    este lo agreegue yo pero el del video agrego padding*/
+    padding: 1.5625rem;
+}

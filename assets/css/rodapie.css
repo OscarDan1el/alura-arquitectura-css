@@ -1,5 +1,7 @@
 .rodapie{
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    /* alinea los elemntos al centro */
     padding: 2rem 5rem;
 }
